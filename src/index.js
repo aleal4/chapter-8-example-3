@@ -12,7 +12,6 @@ if (!process.env.PORT) {
 
 //
 // Extracts the PORT environment variable.
-// adding comment to push
 //
 const PORT = process.env.PORT;
 
